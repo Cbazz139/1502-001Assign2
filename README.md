@@ -1,14 +1,14 @@
 Planning document
 
-Sebastian
+[Sebastian]
 Menu class: all methods,
 ToyManager class: some methods,
 Gnerate Javadoc
 
-Dilpreet
+[Dilpreet]
 All model classes: Toys, Animal,etc. 
 Unit tests,
 ToyManager class: some methods,
 Exceptions.
 
-Rafael
+[Rafael]
